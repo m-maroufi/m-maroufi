@@ -73,19 +73,6 @@
 
 ---
 
-## 📊 آمار فعالیت من در GitHub
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=m-maroufi&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=m-maroufi&theme=github-dark-blue&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-maroufi&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
-
----
 
 ## 🐍 فعالیت‌های من در GitHub
 
