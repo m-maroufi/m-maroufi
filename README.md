@@ -115,6 +115,5 @@
 
 🌴 رو به رشد باشید! 🚀
 
-![Profile Views](https://visitcount.itsvg.in/api?id=m-maroufi&icon=6&color=10)
 
 </div>
